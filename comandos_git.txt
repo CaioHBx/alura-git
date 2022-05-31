@@ -14,3 +14,5 @@ git commit -m "mensagem sobre o commit" (salva as alterações do arquivo e mand
 git log (mostra o historico do git)
 
 git log --oneline (mostra o historico do git em uma linha por objeto) 
+
+git log -p (mostra o historico do git completo) 

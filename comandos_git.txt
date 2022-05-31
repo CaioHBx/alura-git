@@ -1,0 +1,12 @@
+git init (comando para inicializar em um projeto)
+
+git status (comando para visualizar informações)
+
+git config --local user.name "Caio"
+git config --local user.email "caio.batista@bsoft.email"
+
+git add "arquivo" (adiciona o arquivo mencionado para a monitoração)
+
+git add . (adiciona o todos os arquivos do diretorio para a monitoração)
+
+git commit -m "mensagem sobre o commit"

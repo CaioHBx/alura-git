@@ -16,3 +16,5 @@ git log (mostra o historico do git)
 git log --oneline (mostra o historico do git em uma linha por objeto) 
 
 git log -p (mostra o historico do git completo) 
+
+possibilidades de git log = https://devhints.io/git-log
